@@ -8,6 +8,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>FractionFormatter</PackageId>
+    <RepositoryUrl>https://github.com/PhilDenoncourt/fractions_csharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Fractions, Convert to Fraction, Fraction Formatter</PackageTags>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Phil Denoncourt</Authors>
+    <Company />
+    <Description>This assembly converts number into reasonable fraction equivalents.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>FractionFormatter</PackageId>
+  </PropertyGroup>
+
+</Project>
